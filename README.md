@@ -11,4 +11,3 @@ I developed a Java GUI-based Maths Game designed to enhance the mathematical kno
    - **How to Run:** Steps to compile and execute the game
    - **Screenshots:** Add the images you shared to showcase the UI
    - **Future Improvements:** Optional section for planned enhancements
-   - **Contributors:** Your name and GitHub profile link
